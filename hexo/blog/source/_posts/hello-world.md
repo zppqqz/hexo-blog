@@ -14,38 +14,49 @@ title: 为什么开通这个博客
 
 ### 技能计划
 
+（1）每天一篇别人的博客
+
+（2）阅读书籍或者看视频
+
+​          至少写一篇摘记
+
+ （3）看30页英文
+
+#### 1.编程
+
 ```bash
 --Java
+----并发编程
+--JVM
+--MySQL
+--网络协议
+--Netty
+--Tomcat
+--Nginx
+--Zookeeper
+--MyBatis
+--MQ
+----ActiveMq
+----RabbitMq
+----RocketMq
+--Redis
+--分布式
+--MongoDB
+--Spring
+--Dubbo
+--SpringBoot
+--SpringCloud
+--ELK
 --Linux
---数据库
 --数据结构
 --网络通信
 --设计模式
-...
+
 ```
 
-More info: [Writing](https://hexo.io/docs/writing.html)
 
-### Run server
 
-```bash
-$ hexo server
-```
+#### 2.英语
 
-More info: [Server](https://hexo.io/docs/server.html)
+1.反复阅读Joker 剧本（单词，短语）
 
-### Generate static files
-
-```bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-```bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
